@@ -1,0 +1,20 @@
+Cachorros de pequeno porte 
+
+//fazer uma tabela com nome e preço para o banho e tosa\\
+
+Shih-tzu
+Chihuahua
+Buldogue francês
+Pug
+Pastor Alemão
+Chow Chow
+Fila Brasileiro
+
+<script type="text/javascript">
+    const toggleMenu = () => 
+        document.body.classList.toggle("open");
+ </script> 
+
+<body class="open">
+
+<button class="" onclick="toggleMenu()"></button>
